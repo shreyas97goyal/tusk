@@ -5,6 +5,8 @@ welcome to shryeas kitchen
 kheer
 pasta
 chicken fry
+beans 
+pizza
 
 
 thanks
